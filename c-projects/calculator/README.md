@@ -20,7 +20,7 @@ A menu-driven calculator written in C as part of my B.Tech CSE programming pract
 On GCC, compile with:
 
 ```bash
-gcc calculator.c -o calculator -lm
+gcc main.c -o calculator -lm
 ./calculator
 ```
 
